@@ -8,5 +8,5 @@ API Test for Petstore.swagger.io
 npm install -g newman
 
 Загрузите файлы c вашей коллекцией тестов и окружения из Postman на свой компьютер
-Перейдите в командную строку и введите run collection <collectionname> -e <окружение>
+Перейдите в командную строку и введите newman run  <collectionname> -e <окружение>
 Приятного просмотра!
